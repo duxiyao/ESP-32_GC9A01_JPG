@@ -1,3 +1,8 @@
+https://juejin.cn/post/6844903990220554254
+https://www.bilibili.com/video/av416403883
+https://github.com/moononournation/RGB565_video   https://github.com/moononournation
+https://www.jianshu.com/p/9b5968454b66
+
 # ESP-32_GC9A01_JPG
 ESP32驱动GC9A01圆形屏幕显示图片/视频/时间  
 
